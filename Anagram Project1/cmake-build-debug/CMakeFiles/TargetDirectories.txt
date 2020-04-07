@@ -1,0 +1,3 @@
+C:/Users/azubi/Documents/First Year/Semester 2/Software Engineering project/Project 1/19361113.Anagram Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/azubi/Documents/First Year/Semester 2/Software Engineering project/Project 1/19361113.Anagram Project1/cmake-build-debug/CMakeFiles/tryerror.dir
+C:/Users/azubi/Documents/First Year/Semester 2/Software Engineering project/Project 1/19361113.Anagram Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
